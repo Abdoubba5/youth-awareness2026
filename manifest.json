@@ -1,0 +1,57 @@
+{
+  "name": "DZ Young Leaders — اختيارك اليوم مستقبلك غداً",
+  "short_name": "DZ Young Leaders",
+  "description": "مبادرة شبابية تطوعية لمكافحة إدمان المخدرات في ولاية برج بوعريريج",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1B2D",
+  "theme_color": "#FF5C1A",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["education", "social", "lifestyle"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot.png",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "انضم كمتطوع",
+      "short_name": "تطوع",
+      "description": "سجّل كمتطوع في المبادرة",
+      "url": "/#volunteer",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "الأنشطة",
+      "short_name": "أنشطة",
+      "description": "تصفح أنشطة المبادرة",
+      "url": "/#activities",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "تواصل معنا",
+      "short_name": "تواصل",
+      "description": "تواصل مع فريق المبادرة",
+      "url": "https://wa.me/213665376480",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
